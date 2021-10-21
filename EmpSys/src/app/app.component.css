@@ -1,0 +1,26 @@
+.navbar-bg {
+    background-color: #23527c
+}
+
+.navbar-brand{
+    color:white;
+    font-family: 'Jost', sans-serif;
+}
+
+th {
+    font-family: 'Questrial', sans-serif;
+}
+
+label.required-field::after {
+    content: '*';
+    color: red;
+}
+
+button {
+    font-family: 'Alata', sans-serif;
+}
+
+.error-message {
+    font-size: x-small;
+    color: red;
+}
